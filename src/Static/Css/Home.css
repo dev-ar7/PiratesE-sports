@@ -1,0 +1,47 @@
+.home {
+    margin-top: 100px;
+    margin-left: 35px;
+}
+
+
+.home .intro .p-tag {
+    margin-right: 30px;
+    color: #d6537c;
+    font-size: larger;
+}
+
+.home .intro .btn {
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: linear-gradient(161deg, rgba(136,55,114,1) 0%, rgba(192,76,113,1) 50%, rgba(252,190,103,1) 100%);
+    cursor: pointer;
+}
+
+.carousel-root {
+    margin-right: 30px;
+}
+
+.home .carousel {
+    margin-top: 35px;
+}
+
+.home .carousel .slide .legend {
+    font-size: 20px;
+    font-weight: 700;
+    background: #343740;
+    color: #fcbe67;
+}
+
+.home .last-week-winners {
+    margin-bottom: 35px;
+    margin-right: 20px;
+}
+
+.home .top-org {
+    margin-bottom: 35px;
+    margin-right: 20px;
+}
