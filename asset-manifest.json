@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PiratesE-sports/static/css/main.3c898bf6.css",
-    "main.js": "/PiratesE-sports/static/js/main.e24a65cd.js",
+    "main.js": "/PiratesE-sports/static/js/main.abc04457.js",
     "static/js/787.cda612ba.chunk.js": "/PiratesE-sports/static/js/787.cda612ba.chunk.js",
     "static/media/Valo.png": "/PiratesE-sports/static/media/Valo.4898352f927c3dc1eff0.png",
     "static/media/BGMI.png": "/PiratesE-sports/static/media/BGMI.74bde74a56c373e0dbc0.png",
@@ -19,11 +19,11 @@
     "static/media/Logo.svg": "/PiratesE-sports/static/media/Logo.2700d8da76c3c634b26058dfffbe633c.svg",
     "index.html": "/PiratesE-sports/index.html",
     "main.3c898bf6.css.map": "/PiratesE-sports/static/css/main.3c898bf6.css.map",
-    "main.e24a65cd.js.map": "/PiratesE-sports/static/js/main.e24a65cd.js.map",
+    "main.abc04457.js.map": "/PiratesE-sports/static/js/main.abc04457.js.map",
     "787.cda612ba.chunk.js.map": "/PiratesE-sports/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c898bf6.css",
-    "static/js/main.e24a65cd.js"
+    "static/js/main.abc04457.js"
   ]
 }
