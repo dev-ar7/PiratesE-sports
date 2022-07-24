@@ -25,9 +25,9 @@ function NavBar() {
             color="rgb(192, 76, 113)"
             logo={Logo}
             menu= {[
-                    { name: "HOME", to: '/',},
-                    { name: "WINNERS", to: '/winners',},
-                    { name: "LOGIN", to: '/login'},
+                    { name: "HOME", to: '/PiratesE-sports',},
+                    { name: "WINNERS", to: '/PiratesE-sports/winners',},
+                    { name: "LOGIN", to: '/PiratesE-sports/login'},
             ]}
             social={[
             {

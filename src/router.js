@@ -11,10 +11,10 @@ function Router() {
         <React.StrictMode>
             <BrowserRouter>
                 <Routes>
-                    <Route exact path="/" element={<App />} />
-                    <Route exact path="/login" element={<LogIn />} />
-                    <Route exact path="/signup" element={<SignUp />} />
-                    <Route exact path="/winners" element={<Winners />} />
+                    <Route exact path="/PiratesE-sports" element={<App />} />
+                    <Route exact path="/PiratesE-sports/login" element={<LogIn />} />
+                    <Route exact path="/PiratesE-sports/signup" element={<SignUp />} />
+                    <Route exact path="/PiratesE-sports/winners" element={<Winners />} />
                 </Routes>
             </BrowserRouter>
         </React.StrictMode>
